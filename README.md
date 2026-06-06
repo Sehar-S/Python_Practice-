@@ -1,6 +1,5 @@
 # Python_Practice
-Personal Python practice files and exercises. A collection of concepts, experiments, and coding challenges completed during my learning journey# Python Practice Repository
-
+Personal Python practice files and exercises. A collection of concepts, experiments, and coding challenges completed during my learning journey
 This repository contains Python exercises, coding challenges, and practice projects completed during my learning journey.
 
 ## Topics Covered
